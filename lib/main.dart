@@ -33,7 +33,7 @@ class DashboardPage extends StatelessWidget {
           SizedBox(height: 10),
           CircleAvatar(
             radius: 50,
-            backgroundImage: AssetImage('assets/image/profil.jpg'),
+            backgroundImage: AssetImage('assets/image/profil2.png'),
             onBackgroundImageError: (exception, stackTrace) {
               debugPrint('Error loading image: $exception');
             },
