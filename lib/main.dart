@@ -51,9 +51,9 @@ class DashboardPage extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              ElevatedButton(onPressed: (){}, child: Text('Tombol 1')),
+              TextButton(onPressed: (){}, child: Text('Tombol 1')),
               SizedBox(width: 10),
-              ElevatedButton(onPressed: (){}, child: Text('Tombol 2')),
+              OutlinedButton(onPressed: (){}, child: Text('Tombol 2')),
               SizedBox(width: 10),
               ElevatedButton(onPressed: (){}, child: Text('Tombol 3')),
             ],
