@@ -1,5 +1,8 @@
 # tugas1_praktpm_123220198
 
+![image](https://github.com/user-attachments/assets/58cface2-c753-4e41-9425-ee129b5b3361)
+
+
 A new Flutter project.
 
 ## Getting Started
